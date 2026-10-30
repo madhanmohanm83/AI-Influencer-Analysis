@@ -1,0 +1,19 @@
+﻿streamlit
+pandas
+numpy
+scikit-learn
+google-api-python-client
+python-dotenv
+plotly
+textblob
+nltk
+sqlalchemy
+joblib
+openpyxl
+isodate
+requests
+pytest
+
+# Optional advanced NLP packages - add later if needed
+# transformers
+# torch

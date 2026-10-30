@@ -1,0 +1,51 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.streamlit/secrets.toml
+data/raw/*
+data/processed/*
+data/exports/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+
+# Local databases and secrets
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+venv/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+venv/

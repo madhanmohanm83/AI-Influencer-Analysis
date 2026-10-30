@@ -1,5 +1,7 @@
 # Creator Intelligence Pro
+🚀 **Live Dashboard:** https://ai-influencer-analysis-gxwwyyjw6ubty2ebsrdw7l.streamlit.app/
 
+💻 **GitHub Repository:** https://github.com/madhanmohanm83/AI-Influencer-Analysis
 ### AI-Assisted YouTube Creator Discovery, Analytics & Recommendation Platform
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)
